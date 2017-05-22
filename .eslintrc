@@ -192,7 +192,7 @@
     ////////// Stylistic Issues //////////
 
     "array-bracket-spacing": [
-      2,
+      0,
       "always"
     ],                                // enforce spacing inside array brackets (fixable)
     "block-spacing": [
@@ -207,7 +207,7 @@
       }
     ],                                // enforce one true brace style
     "camelcase": [
-      2,
+      0,
       {
         "properties": "always"
       }
